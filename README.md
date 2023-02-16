@@ -15,5 +15,3 @@
  </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
-
-![snake gif](https://github.com/The-AnJu/The-AnJu/blob/output/github-contribution-grid-snake.gif)

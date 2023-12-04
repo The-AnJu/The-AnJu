@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=The+name+is+Ana+Julia;She+loves+chocolate+and...;error+404,+nothing+found;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=O+nome+é+Ana+Julia;Eu+amo+chocolate+e...;error+404,+nothing+found;:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=The-AnJu&show_icons=true&count_private=true&title_color=008B8B&icon_color=008B8B&text_color=B0E0E6&bg_color=0d1117" alt="Ana Julia github stats" /> 
